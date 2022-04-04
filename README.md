@@ -21,13 +21,13 @@ Quase todos os dias, consigo criar experiências incríveis e me envolver com as
 ### Conecte-se comigo:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/thelsandro-antunes/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/thelsandro-costa-antunes-443840236/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100005882895442" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/thelsandro_antunes/" target="blank"><img align="center"
+  <a href="https://www.instagram.com/thelsandro.developer/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
   

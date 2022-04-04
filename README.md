@@ -12,7 +12,7 @@ Quase todos os dias, consigo criar experiências incríveis e me envolver com as
 
 - 🌱 Atualmente estou aprendendo mais sobre **Front-End**.
 
-- 📫 Onde me encontrar **thelsandro.antunes@gmail.com**
+- 📫 Onde me encontrar **thelsandro.developer@gmail.com**
 
 - ℹ️ Hobbies: <b>Games 🎮 | Música 🎧 | Academia 🏃 | Livros 📖</b></p>
 

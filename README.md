@@ -21,17 +21,25 @@ Quase todos os dias, consigo criar experiências incríveis e me envolver com as
 ### Conecte-se comigo:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/thelsandro-costa-antunes-443840236/" target="_blank" ><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                                                                                                                                     alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100005882895442" target="_blank" ><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/thelsandro.developer/" target="_blank" ><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  
+  💌 Aqui você envia uma mensagem para entrar em contato: ⤵️
 </p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thelsandro.developer@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/thelsandro-costa-antunes-443840236/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thelsandro-costa-antunes-443840236/" /></a>
+
+  <a href="https://bit.ly/3j70IK" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://bit.ly/3j70IKL"/></a>
+
+  <a href="https://bit.ly/3udoR96" alt="Youtube">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://bit.ly/3udoR96"/></a>
+
+  <a href="https://www.instagram.com/thelsandro.developer/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/thelsandro.developer/"/></a>
+</p>  
 <br>
 
 ## 🚀 Minhas Skills

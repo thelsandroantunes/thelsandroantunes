@@ -25,13 +25,13 @@ Quase todos os dias, consigo criar experiências incríveis e me envolver com as
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:thelsandro.developer@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thelsandro.developer@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/thelsandro-costa-antunes-443840236/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thelsandro-costa-antunes-443840236/" /></a>
 
-  <a href="https://bit.ly/3j70IK" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send/?phone=5592991430765&text=Ol%C3%A1+Thelsandro!+Vamos+conversar+sobre+tecnologias+,+vagas+e+projetos+diversos&app_absent=0" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://bit.ly/3j70IKL"/></a>
 
   <a href="https://bit.ly/3udoR96" alt="Youtube">

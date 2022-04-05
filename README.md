@@ -25,7 +25,7 @@ Quase todos os dias, consigo criar experiências incríveis e me envolver com as
 </p>
 
 <p align="left">
-  <a href="mailto:thelsandro.developer@gmail.com?subject='texto do assunto'" alt="Gmail">
+  <a href="mailto:thelsandro.developer@gmail.com?subject=Vim do GitHub =D" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thelsandro.developer@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/thelsandro-costa-antunes-443840236/" alt="Linkedin">

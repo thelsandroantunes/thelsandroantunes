@@ -12,8 +12,6 @@ Quase todos os dias, consigo criar experiências incríveis e me envolver com as
 
 - 🌱 Atualmente estou aprendendo mais sobre **Front-End**.
 
-- 📫 Onde me encontrar **thelsandro.developer@gmail.com**
-
 - ℹ️ Hobbies: <b>Games 🎮 | Música 🎧 | Academia 🏃 | Livros 📖</b></p>
 
 <br>
@@ -39,6 +37,9 @@ Quase todos os dias, consigo criar experiências incríveis e me envolver com as
 
   <a href="https://www.instagram.com/thelsandro.developer/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/thelsandro.developer/"/></a>
+  
+  <a href="https://twitter.com/dev_thelsandro" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-1C9CEA?style=flat-square&labelColor=1C9CEA&logo=twitter&logoColor=white&link=https://twitter.com/dev_thelsandro/"/></a>
 </p>  
 <br>
 

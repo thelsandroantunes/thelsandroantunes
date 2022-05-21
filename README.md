@@ -1,33 +1,31 @@
-## 👋 Fala Devs! Sou Thelsandro Antunes 👋
+## <h1 align="center">👋 Fala Devs! Sou Thelsandro Antunes 👋 </h1>
 
 ![](https://github.com/thelsandroantunes/)
 
-Quase todos os dias, consigo criar experiências incríveis e me envolver com as diferentes plataformas de desenvolvimento. Já realizei muitos projetos em meu PC, mas nada melhor do que ver os usuários falarem sobre bem ou mal he he he!
+<p align="center">Quase todos os dias, consigo criar experiências incríveis e me envolver com as diferentes plataformas de desenvolvimento. Já realizei muitos projetos em meu PC, mas nada melhor do que ver os usuários falarem sobre he he he! </p>
+
+<br>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
+### 👨‍💻: &nbsp;Sobre mim : 
+
+Sou um Full Stack Developer  <img src="https://media.giphy.com/media/DU4A3qMuAq1dC/giphy.gif" width="30">  do Brasil.    
+
+- 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www1.uea.edu.br/">UEA</a> e **Ciência de Dados** na <a href="https://estacio.br/">Estácio</a>.
+
+- 🔭 Estou trabalhando como Desenvolvedor de Software e contribuindo com frontend e backend para construção de aplicações web.
+
+- 🌱 Atualmente estou aprendendo mais sobre **Data Sciense**.
+
+- ℹ️ Hobbies: <b>Games 🎮 | Música 🎧 | Academia 🏃 | Livros 📖</b>
 
 <br>
 
-<div style="display: flex;
-    justify-content: center;">
-  <div style="position: relative;">
-  <p align="right">
-    <a href="https://www.linkedin.com/in/thelsandro-developer/">
-      <img style="position: relative;" widht="400" height="400" src="https://github.com/thelsandroantunes/I_liked_the_images/blob/main/gif/animation_500.gif" />
-    </a>
-  </p>
-  </div>
-  
-  <div style="position: relative;">
-  - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www1.uea.edu.br/">UEA</a> e **Ciência de Dados** na <a href="https://estacio.br/">Estácio</a>.
 
-  - 🌱 Atualmente estou aprendendo mais sobre **Front-End**.
+---
 
-  - ℹ️ Hobbies: <b>Games 🎮 | Música 🎧 | Academia 🏃 | Livros 📖</b></p>
-  </div>
 
-</div>
-<br>
-
-### Conecte-se comigo:
+### 🧲 Conecte-se comigo:
 
 <p align="left">
   💌 Aqui você manda a sua mensagem: ⤵️
@@ -54,32 +52,38 @@ Quase todos os dias, consigo criar experiências incríveis e me envolver com as
 </p>  
 <br>
 
-## 🚀 Minhas Skills
+---
 
-
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-
+### 🛠 &nbsp; Linguagens e Ferramentas
+<p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="Php" width="40" height="40"/>&nbsp;    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCod" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic"  alt="Ionic" width="40" height="40"/>&nbsp;    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;    
+</p>
 <br>
 
-## ⭐ Informações sobre minha conta GitHub
+---
 
-<a href="https://github.com/thelsandroantunes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelsandroantunes&hide_langs_below=1" />
-</a>
+### 🔥 &nbsp; Informações sobre minha conta GitHub :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thelsandroantunes&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<a href="https://github.com/thelsandroantunes">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=thelsandroantunes&show_icons=true&line_height=27" alt="**THELSANDRO** github stats"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelsandroantunes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## ⚡ Atividade Recente no GitHub
   <br/>

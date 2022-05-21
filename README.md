@@ -6,7 +6,9 @@ Quase todos os dias, consigo criar experiências incríveis e me envolver com as
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<a href="https://www.linkedin.com/in/thelsandro-developer/">
+  <img align="right" src="https://github.com/thelsandroantunes/I_liked_the_images/blob/main/gif/animation_500.gif" alt="adam-pw" />
+</a>
 
 - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www1.uea.edu.br/">UEA</a> e **Ciência de Dados** na <a href="https://estacio.br/">Estácio</a>.
 

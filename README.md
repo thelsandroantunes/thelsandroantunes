@@ -5,7 +5,7 @@
 <p align="center">Quase todos os dias, consigo criar experiências incríveis e me envolver com as diferentes plataformas de desenvolvimento. Já realizei muitos projetos em meu PC, mas nada melhor do que ver os usuários falarem sobre he he he! </p>
 
 <br>
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://github.com/thelsandroantunes/I_liked_the_images/blob/main/gif/self.gif" width="600" height="300"  /></p>
 
 ### 👨‍💻: &nbsp;Sobre mim : 
 

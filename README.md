@@ -6,16 +6,25 @@ Quase todos os dias, consigo criar experiências incríveis e me envolver com as
 
 <br>
 
-<a href="https://www.linkedin.com/in/thelsandro-developer/">
-  <img align="right" src="https://github.com/thelsandroantunes/I_liked_the_images/blob/main/gif/animation_500.gif" />
-</a>
+<div style="display: flex;
+    justify-content: center;">
+  <div style="position: relative;">
+  <p align="right">
+    <a href="https://www.linkedin.com/in/thelsandro-developer/">
+      <img style="position: relative;" widht="400" height="400" src="https://github.com/thelsandroantunes/I_liked_the_images/blob/main/gif/animation_500.gif" />
+    </a>
+  </p>
+  </div>
+  
+  <div style="position: relative;">
+  - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www1.uea.edu.br/">UEA</a> e **Ciência de Dados** na <a href="https://estacio.br/">Estácio</a>.
 
-- 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www1.uea.edu.br/">UEA</a> e **Ciência de Dados** na <a href="https://estacio.br/">Estácio</a>.
+  - 🌱 Atualmente estou aprendendo mais sobre **Front-End**.
 
-- 🌱 Atualmente estou aprendendo mais sobre **Front-End**.
+  - ℹ️ Hobbies: <b>Games 🎮 | Música 🎧 | Academia 🏃 | Livros 📖</b></p>
+  </div>
 
-- ℹ️ Hobbies: <b>Games 🎮 | Música 🎧 | Academia 🏃 | Livros 📖</b></p>
-
+</div>
 <br>
 
 ### Conecte-se comigo:

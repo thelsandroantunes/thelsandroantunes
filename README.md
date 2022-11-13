@@ -11,7 +11,7 @@
 
 Sou um Full Stack Developer  <img src="https://media.giphy.com/media/DU4A3qMuAq1dC/giphy.gif" width="30">  do Brasil.    
 
-- 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www1.uea.edu.br/">UEA</a> e **Ciência de Dados** na <a href="https://estacio.br/">Estácio</a>.
+- 🎓 &nbsp; Estudando **Administração** na <a href="https://ufam.edu.br/">UFAM</a> | **Ciência de Dados** na <a href="https://estacio.br/">Estácio</a> | **Gerência de Projetos** na <a href="https://www.google.com.br/">Google</a>.
 
 - 🔭 Estou trabalhando como Desenvolvedor de Software e contribuindo com frontend e backend para construção de aplicações web.
 

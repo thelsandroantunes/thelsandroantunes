@@ -33,7 +33,7 @@ Sou um Analista de Dados e também Developer  <img src="https://media.giphy.com/
 
 <p align="left">
   <a href="http://lattes.cnpq.br/0935459241711706" alt="Currículo CNPQ">
-    <img src="https://img.shields.io/badge/Currículo%20CNPQ-0935459241711706-brightgreen" /></a>
+    <img src="https://img.shields.io/badge/-CNPQ-2B9DE1" /></a>
 
   <a href="mailto:thelsandro.developer@gmail.com?subject=Vim do GitHub =D" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thelsandro.developer@gmail.com" /></a>

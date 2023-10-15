@@ -9,13 +9,13 @@
 
 ### 👨‍💻: &nbsp;Sobre mim : 
 
-Sou um Full Stack Developer  <img src="https://media.giphy.com/media/DU4A3qMuAq1dC/giphy.gif" width="30">  do Brasil.    
+Sou um Analista de Dados e também Developer  <img src="https://media.giphy.com/media/DU4A3qMuAq1dC/giphy.gif" width="30">  do Brasil.    
 
-- 🎓 &nbsp; Estudando **Administração** na <a href="https://ufam.edu.br/">UFAM</a> | **Ciência de Dados** na <a href="https://estacio.br/">Estácio</a> | **Gerência de Projetos** na <a href="https://www.google.com.br/">Google</a>.
+- 🎓 &nbsp; Formado em **Ciência de Dados** | Cursando **Administração** na <a href="https://ufam.edu.br/">UFAM</a> | Estudando **Data Analytics** no <a href="https://www.google.com.br/">Google</a>.
 
-- 🔭 Estou trabalhando como Desenvolvedor de Software e contribuindo com frontend e backend para construção de aplicações web.
+- 🔭 Profissionalmente estou atuando como Analista de Suporte Computacional.
 
-- 🌱 Atualmente estou aprendendo mais sobre **Data Sciense**.
+- 🌱 Atualmente estou aprendendo mais sobre **DevOps**.
 
 - ℹ️ Hobbies: <b>Games 🎮 | Música 🎧 | Academia 🏃 | Livros 📖</b>
 
@@ -32,6 +32,9 @@ Sou um Full Stack Developer  <img src="https://media.giphy.com/media/DU4A3qMuAq1
 </p>
 
 <p align="left">
+  <a href="http://lattes.cnpq.br/0935459241711706" alt="Currículo CNPQ">
+    <img src="https://img.shields.io/badge/Currículo%20CNPQ-0935459241711706-brightgreen" /></a>
+
   <a href="mailto:thelsandro.developer@gmail.com?subject=Vim do GitHub =D" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thelsandro.developer@gmail.com" /></a>
 

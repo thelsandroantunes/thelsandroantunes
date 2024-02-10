@@ -11,7 +11,7 @@
 
 Sou um Analista de Dados e também Developer  <img src="https://media.giphy.com/media/DU4A3qMuAq1dC/giphy.gif" width="30">  do Brasil.    
 
-- 🎓 &nbsp; Formado em **Ciência de Dados** | Cursando **Administração** na <a href="https://ufam.edu.br/">UFAM</a> | Estudando **Data Analytics** no <a href="https://www.google.com.br/">Google</a>.
+- 🎓 &nbsp; Formado em **Ciência de Dados** | Cursando **Administração** na <a href="https://ufam.edu.br/">UFAM</a> | Fazendo Pós em **Inteligência Artificial e Computacional** na <a href="https://ppg.ufv.br/">UFV</a>.
 
 - 🔭 Profissionalmente estou atuando como Analista de Suporte Computacional.
 

@@ -41,7 +41,7 @@ Sou um Analista de Dados e também Developer  <img src="https://media.giphy.com/
   <a href="https://www.linkedin.com/in/thelsandro-developer/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thelsandro-developer/" /></a>
 
-  <a href="https://api.whatsapp.com/send/?phone=5592981374748&text=Ol%C3%A1+Thelsandro!+Vamos+conversar+sobre+tecnologias+,+vagas+e+projetos+diversos&app_absent=0" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send/?phone=5592993686269&text=Ol%C3%A1+Thelsandro!+Vamos+conversar+sobre+tecnologias+,+vagas+e+projetos+diversos&app_absent=0" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://bit.ly/3j70IKL"/></a>
 
   <a href="https://bit.ly/3udoR96" alt="Youtube">

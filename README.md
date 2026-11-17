@@ -1,97 +1,107 @@
-## <h1 align="center">👋 Fala Devs! Sou Thelsandro Antunes 👋 </h1>
+<h1 align="center">👋 Olá, eu sou o Thelsandro Antunes</h1>
 
-![](https://github.com/thelsandroantunes/)
-
-<p align="center">Quase todos os dias, consigo criar experiências incríveis e me envolver com as diferentes plataformas de desenvolvimento. Já realizei muitos projetos em meu PC, mas nada melhor do que ver os usuários falarem sobre he he he! </p>
-
-<br>
-<p align="center"><img src="https://github.com/thelsandroantunes/I_liked_the_images/blob/main/gif/self.gif" width="600" height="300"  /></p>
-
-### 👨‍💻: &nbsp;Sobre mim : 
-
-Sou um Analista de Dados e também Developer  <img src="https://media.giphy.com/media/DU4A3qMuAq1dC/giphy.gif" width="30">  do Brasil.    
-
-- 🎓 &nbsp; Formado em **Ciência de Dados** | Cursando **Administração** na <a href="https://ufam.edu.br/">UFAM</a> | Fazendo Pós em **Inteligência Artificial e Computacional** na <a href="https://ppg.ufv.br/">UFV</a>.
-
-- 🔭 Profissionalmente estou atuando como Analista de Suporte Computacional.
-
-- 🌱 Atualmente estou aprendendo mais sobre **DevOps**.
-
-- ℹ️ Hobbies: <b>Games 🎮 | Música 🎧 | Academia 🏃 | Livros 📖</b>
-
-<br>
-
-
----
-
-
-### 🧲 Conecte-se comigo:
-
-<p align="left">
-  💌 Aqui você manda a sua mensagem: ⤵️
+<p align="center">
+  <b>Arquiteto de Software · Engenheiro de Software Sênior · Sistemas Corporativos & Indústria 4.0</b><br>
+  NestJS · React · AWS · Dados & IA · Transformação Digital Industrial<br>
+  📍 Manaus, Amazonas — Brasil
 </p>
 
-<p align="left">
-  <a href="http://lattes.cnpq.br/0935459241711706" alt="Currículo CNPQ">
-    <img src="https://img.shields.io/badge/-CNPQ-2B9DE1" /></a>
+<p align="center">
+  <img src="https://github.com/thelsandroantunes/I_liked_the_images/blob/main/gif/self.gif" width="600" height="300" />
+</p>
 
-  <a href="mailto:thelsandro.developer@gmail.com?subject=Vim do GitHub =D" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thelsandro.developer@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/thelsandro-developer/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thelsandro-developer/" /></a>
-
-  <a href="https://api.whatsapp.com/send/?phone=5592993686269&text=Ol%C3%A1+Thelsandro!+Vamos+conversar+sobre+tecnologias+,+vagas+e+projetos+diversos&app_absent=0" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://bit.ly/3j70IKL"/></a>
-
-  <a href="https://bit.ly/3udoR96" alt="Youtube">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://bit.ly/3udoR96"/></a>
-
-  <a href="https://www.instagram.com/thelsandro.developer/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/thelsandro.developer/"/></a>
-  
-  <a href="https://twitter.com/dev_thelsandro" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-1C9CEA?style=flat-square&labelColor=1C9CEA&logo=twitter&logoColor=white&link=https://twitter.com/dev_thelsandro/"/></a>
-</p>  
-<br>
+<p align="center">
+  <i>"Não vejo software apenas como código. Vejo como infraestrutura estratégica do negócio."</i>
+</p>
 
 ---
 
-### 🛠 &nbsp; Linguagens e Ferramentas
+### 👨‍💻 Sobre mim
+
+Sou Arquiteto e Engenheiro de Software com foco na **transformação digital de operações industriais**, conectando arquitetura de software, dados, processos de negócio e estratégia para gerar eficiência, escala e decisões mais rápidas.
+
+- 🏭 Atualmente na **PCE Embalagens**, atuo na arquitetura e evolução do **Mnemosine**, plataforma corporativa *ERP-like* que integra áreas críticas do negócio, automatiza processos operacionais e aumenta a confiabilidade dos dados.
+- 🧱 Arquitetura de Software, Clean Architecture e DDD aplicados a sistemas corporativos.
+- 🔗 Integrações com ERPs (**Infor LN**, **SAP**) e sistemas legados.
+- ☁️ Entrega contínua na **AWS** com GitHub Actions, Docker, ECR/ECS e Terragrunt.
+- 🤖 IA e analytics aplicados ao ambiente operacional (incluindo **Amazon Bedrock**).
+- 🧑‍🏫 Mentoria técnica e transferência de conhecimento.
+
+### 📈 Impacto que busco gerar
+
+- Menos retrabalho e erro humano com automação e validação de regras de negócio
+- Processos que levavam horas de execução manual transformados em fluxos digitais
+- Dados integrados, consistentes e rastreáveis entre sistemas e áreas
+- Decisões mais rápidas com dashboards e analytics
+- Menor dependência de sistemas de terceiros
+
+### 🎓 Formação
+
+- 🎓 **Mestrado** em Administração e Desenvolvimento Regional na Amazônia — UFAM *(em andamento)*
+- 📚 **Especialização** em Gestão de Negócios Amazônicos — UFAM
+- 📚 **Especialização** em Ciência de Dados e Big Data Analytics — Estácio
+- 🎓 **Bacharelado** em Administração — UFAM *(TCC: IA na gestão de operações industriais)*
+- 🎓 **Tecnologia** em Ciência de Dados — Estácio
+
+### 🎯 Interesses profissionais
+
+Arquitetura de Software · Engenharia de Software Sênior · Sistemas Corporativos · Integração com ERPs · Transformação Digital Industrial · Dados & IA
+
+ℹ️ **Hobbies:** Games 🎮 | Música 🎧 | Academia 🏃 | Livros 📖
+
+---
+
+### 🛠 Stack principal
+
+**Back-end & Arquitetura**
 <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="Php" width="40" height="40"/>&nbsp;    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCod" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic"  alt="Ionic" width="40" height="40"/>&nbsp;    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;    
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,js,java,spring,php,cs,dotnet,python" />
 </p>
-<br>
+
+**Front-end & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,materialui,html,css,flutter,ionic" />
+</p>
+
+**Dados**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,azure,anaconda" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" />
+</p>
+
+**Cloud, DevOps & Integrações**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,terraform,git,github,linux,ubuntu" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Infor%20LN-ION%20API-005EB8?style=for-the-badge" height="48" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="48" />
+</p>
 
 ---
 
-### 🔥 &nbsp; Informações sobre minha conta GitHub :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thelsandroantunes&theme=dark&background=000000)](https://git.io/streak-stats)
+### 🧲 Conecte-se comigo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelsandroantunes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://www.linkedin.com/in/thelsandro-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:thelsandro.developer@gmail.com?subject=Vim%20do%20GitHub"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="http://lattes.cnpq.br/0935459241711706"><img src="https://img.shields.io/badge/Lattes-CNPq-2B9DE1?style=for-the-badge" /></a>
+  <a href="https://orcid.org/0009-0007-4387-6132"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send/?phone=5592991430765&text=Ol%C3%A1%20Thelsandro!%20Vim%20pelo%20seu%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
-## ⚡ Atividade Recente no GitHub
-  <br/>
-   <a href="https://github.com/thelsandroantunes"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thelsandroantunes&custom_title=thelsandroantunes's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+### 🔥 Estatísticas no GitHub
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thelsandroantunes&theme=dark&background=000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelsandroantunes&layout=compact&theme=vision-friendly-dark&hide_border=true" height="165" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thelsandroantunes&theme=react-dark&hide_border=true" />
+</p>

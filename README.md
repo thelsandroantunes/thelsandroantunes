@@ -1,9 +1,9 @@
-<h1 align="center">👋 Olá, eu sou o Thelsandro Antunes</h1>
+<h1 align="center">👋 Hi, I'm Thelsandro Antunes</h1>
 
 <p align="center">
-  <b>Arquiteto de Software · Engenheiro de Software Sênior · Sistemas Corporativos & Indústria 4.0</b><br>
-  NestJS · React · AWS · Dados & IA · Transformação Digital Industrial<br>
-  📍 Manaus, Amazonas — Brasil
+  <b>Software Architect · Senior Software Engineer · Enterprise Systems & Industry 4.0</b><br>
+  NestJS · React · AWS · Data & AI · Industrial Digital Transformation<br>
+  📍 Manaus, Amazonas — Brazil
 </p>
 
 <p align="center">
@@ -11,49 +11,49 @@
 </p>
 
 <p align="center">
-  <i>"Não vejo software apenas como código. Vejo como infraestrutura estratégica do negócio."</i>
+  <i>"I don't see software merely as code. I see it as strategic business infrastructure."</i>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About me
 
-Sou Arquiteto e Engenheiro de Software com foco na **transformação digital de operações industriais**, conectando arquitetura de software, dados, processos de negócio e estratégia para gerar eficiência, escala e decisões mais rápidas.
+I'm a Software Architect and Software Engineer focused on the **digital transformation of industrial operations**, connecting software architecture, data, business processes and technology strategy to improve efficiency, scalability and decision-making.
 
-- 🏭 Atualmente na **PCE Embalagens**, atuo na arquitetura e evolução do **Mnemosine**, plataforma corporativa *ERP-like* que integra áreas críticas do negócio, automatiza processos operacionais e aumenta a confiabilidade dos dados.
-- 🧱 Arquitetura de Software, Clean Architecture e DDD aplicados a sistemas corporativos.
-- 🔗 Integrações com ERPs (**Infor LN**, **SAP**) e sistemas legados.
-- ☁️ Entrega contínua na **AWS** com GitHub Actions, Docker, ECR/ECS e Terragrunt.
-- 🤖 IA e analytics aplicados ao ambiente operacional (incluindo **Amazon Bedrock**).
-- 🧑‍🏫 Mentoria técnica e transferência de conhecimento.
+- 🏭 Currently at **PCE Embalagens**, working on the architecture and evolution of **Mnemosine**, an internal *ERP-like* corporate platform that integrates critical business areas, automates operational processes and improves data reliability.
+- 🧱 Software Architecture, Clean Architecture and DDD applied to enterprise systems.
+- 🔗 Integrations with ERPs (**Infor LN**, **SAP**) and legacy systems.
+- ☁️ Continuous delivery on **AWS** with GitHub Actions, Docker, ECR/ECS and Terragrunt.
+- 🤖 AI and analytics applied to operational environments (including **Amazon Bedrock**).
+- 🧑‍🏫 Technical mentoring and knowledge transfer.
 
-### 📈 Impacto que busco gerar
+### 📈 Business impact
 
-- Menos retrabalho e erro humano com automação e validação de regras de negócio
-- Processos que levavam horas de execução manual transformados em fluxos digitais
-- Dados integrados, consistentes e rastreáveis entre sistemas e áreas
-- Decisões mais rápidas com dashboards e analytics
-- Menor dependência de sistemas de terceiros
+- Reduced operational rework and human error through automation and business-rule validation
+- Turned processes that took hours of manual work into digital workflows
+- Integrated, consistent and traceable data across systems and business areas
+- Faster, better-informed decisions through dashboards and analytics
+- Reduced dependency on third-party systems
 
-### 🎓 Formação
+### 🎓 Education
 
-- 🎓 **Mestrado** em Administração e Desenvolvimento Regional na Amazônia — UFAM *(em andamento)*
-- 📚 **Especialização** em Gestão de Negócios Amazônicos — UFAM
-- 📚 **Especialização** em Ciência de Dados e Big Data Analytics — Estácio
-- 🎓 **Bacharelado** em Administração — UFAM *(TCC: IA na gestão de operações industriais)*
-- 🎓 **Tecnologia** em Ciência de Dados — Estácio
+- 🎓 **Master's** in Management and Regional Development of the Amazon — UFAM *(in progress)*
+- 📚 **Specialization** in Amazonian Business Management — UFAM
+- 📚 **Specialization** in Data Science and Big Data Analytics — Estácio
+- 🎓 **Bachelor's** in Business Administration — UFAM *(thesis: AI in industrial operations management)*
+- 🎓 **Technologist** in Data Science — Estácio
 
-### 🎯 Interesses profissionais
+### 🎯 Interested in
 
-Arquitetura de Software · Engenharia de Software Sênior · Sistemas Corporativos · Integração com ERPs · Transformação Digital Industrial · Dados & IA
+Software Architecture · Senior Software Engineering · Enterprise Systems · ERP Integration · Industrial Digital Transformation · Data & AI
 
-ℹ️ **Hobbies:** Games 🎮 | Música 🎧 | Academia 🏃 | Livros 📖
+ℹ️ **Hobbies:** Games 🎮 | Music 🎧 | Gym 🏃 | Books 📖
 
 ---
 
-### 🛠 Stack principal
+### 🛠 Tech stack
 
-**Back-end & Arquitetura**
+**Back-end & Architecture**
 <p>
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,js,java,spring,php,cs,dotnet,python" />
 </p>
@@ -63,7 +63,7 @@ Arquitetura de Software · Engenharia de Software Sênior · Sistemas Corporativ
   <img src="https://skillicons.dev/icons?i=react,vite,materialui,html,css,flutter,ionic" />
 </p>
 
-**Dados**
+**Data**
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,azure,anaconda" />
   &nbsp;
@@ -72,7 +72,7 @@ Arquitetura de Software · Engenharia de Software Sênior · Sistemas Corporativ
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" />
 </p>
 
-**Cloud, DevOps & Integrações**
+**Cloud, DevOps & Integrations**
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,terraform,git,github,linux,ubuntu" />
   &nbsp;
@@ -83,19 +83,19 @@ Arquitetura de Software · Engenharia de Software Sênior · Sistemas Corporativ
 
 ---
 
-### 🧲 Conecte-se comigo
+### 🧲 Let's connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thelsandro-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:thelsandro.developer@gmail.com?subject=Vim%20do%20GitHub"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:thelsandro.developer@gmail.com?subject=Hi%20from%20GitHub"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="http://lattes.cnpq.br/0935459241711706"><img src="https://img.shields.io/badge/Lattes-CNPq-2B9DE1?style=for-the-badge" /></a>
   <a href="https://orcid.org/0009-0007-4387-6132"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-  <a href="https://api.whatsapp.com/send/?phone=5592991430765&text=Ol%C3%A1%20Thelsandro!%20Vim%20pelo%20seu%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send/?phone=5592991430765&text=Hi%20Thelsandro!%20I%20found%20you%20on%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🔥 Estatísticas no GitHub
+### 🔥 GitHub stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thelsandroantunes&theme=dark&background=000000" height="165" />
